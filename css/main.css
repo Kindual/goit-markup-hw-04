@@ -214,7 +214,6 @@ address .item + .item {
     display: inline-block;
     width: 44px;
     height: 44px;
-    /* background-color: tomato; */
     background-color: var(--bg-socials);
     border-radius: 50%;
 }
